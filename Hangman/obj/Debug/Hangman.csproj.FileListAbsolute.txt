@@ -1,0 +1,6 @@
+C:\Users\Storm\source\repos\Hangman_Game\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Storm\source\repos\Hangman_Game\Hangman\bin\Debug\Hangman.exe
+C:\Users\Storm\source\repos\Hangman_Game\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Storm\source\repos\Hangman_Game\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Storm\source\repos\Hangman_Game\Hangman\obj\Debug\Hangman.exe
+C:\Users\Storm\source\repos\Hangman_Game\Hangman\obj\Debug\Hangman.pdb
